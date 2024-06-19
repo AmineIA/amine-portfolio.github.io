@@ -1,36 +1,66 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Amine Arbaoui",
+    "label": "Ingénieur en science des données / Master en Intelligence artificielle",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "amine.arbaoui@centrale-casablanca.ma",
+    "phone": "(33) 07 80 75 65 13",
+    "url": "https://amineia.github.io/amine-portfolio.github.io/",
+    "summary": "Un passionné par l'intelligence artificielle et les sciences des données",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2 Rue Soeur Bouvier",
+      "postalCode": "69005",
+      "city": "Lyon",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Amine Arbaoui",
+        "url": "https://www.linkedin.com/in/amine-arbaoui-3b6839218/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "CTC - Centre technique du cuir",
+      "position": "Stagiaire Ingénieur en Intelligence artificielle",
+      "url": "",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "summary": "Mission Consultant IA et R&D en Deep Learning.",
+      "highlights": [
+        "Benchmark des solutions IA pour différents métiers et départements.",
+        "Analyse du besoin et accompagnement des entreprises membres (Hermès, Chanel, etc.).",
+        "Étude du SOTA pour la détection et la lecture du texte (OCR).",
+        "Implémentation et optimisation du modèle MixNet.",
+        "Entraînement et test des performances des modèles IA.",
+        "Participation à un projet de reconnaissance vocale."
+        },
+    {
+      "name": "CNRS",
+      "position": "Stagiaire en Deep Learning",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-31",
+      "summary": "Étude de performance et optimisation de modèles avancés.",
+      "highlights": [
+        "Étude de performance et optimisation de modèles avancés, tels que Mask RCNN, avec une précision démontrée de plus de 85%.",
+        "Collaboration efficace avec des chercheurs et des partenaires.",
+        "Présentation claire et concise des avancées et résultats de recherche."
+    }
+    {
+      "name": "ABA Technology",
+      "position": "Stage découverte du métier d'un ingénieur IA",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Formalisation de problèmes et collecte des besoins métiers.",
+      "highlights": [
+        "Formalisation de problèmes et collecte des besoins métiers.",
+        "Établissement de méthodes efficaces pour la collecte et le traitement de données.",
+        "Automatisation d'annotations d'images."
     }
   ],
   "volunteer": [
