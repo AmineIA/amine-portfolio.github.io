@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amine-portfolio.github.io/al-folio/sitemap.xml
+Sitemap: https://amine-portfolio.github.io/sitemap.xml
